@@ -2,7 +2,6 @@ var resultado = document.querySelector('.hidden')
 
 let simulador = () => {
 
-    console.log('fui clicado')
     let jurosAnual = document.getElementById('tax')
     let anosFinanciado = document.getElementById('periodYears')
 
